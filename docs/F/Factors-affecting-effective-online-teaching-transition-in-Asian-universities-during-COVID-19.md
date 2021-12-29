@@ -3,7 +3,7 @@ layout: default
 title: § Factors affecting effective online teaching transition in Asian universities during COVID-19   
 parent: F
 has_children: true
-nav_order: 9790000
+nav_order: 9790031
 ---
 <style>
 .dont-break-out {
